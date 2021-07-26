@@ -1,0 +1,21 @@
+.big-banner{
+    background-image: url('../Images/image1.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: no-repeat;
+    width: 100%;
+
+}
+
+.icon-img{
+    margin-top: 1rem;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 2rem;
+}
+
+.w-100{
+    margin-bottom: 3rem;
+}
+
+

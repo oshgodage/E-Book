@@ -1,0 +1,30 @@
+.carousel-item{
+    height: 30rem;
+    background-color: darkgray;
+    position: relative;
+}
+/*
+.container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 30px;
+}
+*/
+.img{
+    height: 100%;
+}
+
+.tcontainer{
+text-align: center;
+}
+.main-footer{
+    color: black;
+    background-color: rgb(254, 254, 255);
+    padding-top: 3em;
+    margin-top: 3em;
+    bottom: 10;
+    width: 100%;
+    position: relative;
+}

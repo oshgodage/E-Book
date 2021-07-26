@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(40, 161, 209);
+    max-width: 100%;
+}
+
+
+.navbar-brand, .navbar-nav, .nav-link {
+    color: rgb(238, 240, 241);
+    margin-left: 20px;
+
+}
+
+.nav.Item{
+    font-family: 500;
+    color: aliceblue;
+}
+
+.navbar-brand{
+    font-weight: 800;
+
+}
+.nav-link{
+    font-weight: 700;
+}
+
+.navbar-brand:hover, .navbar-nav:hover, .nav-link:hover {
+    color: rgb(248, 248, 248);
+}
+
+
